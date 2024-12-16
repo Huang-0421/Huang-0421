@@ -14,7 +14,7 @@
 - ❓ Ask me about anything related to technology and schools.  
   
 
-- 🗨️ Fun fact: the best GPT user  
+- 🗨️ Fun fact: the best GPT user.
   
 
 ## My Skill Set  
@@ -66,6 +66,7 @@
 <a href="https://github.com/Huang-0421">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huang-0421&langs_count=3"/> 
 </a>
+
 <a href="https://github.com/Huang-0421">
   <img src="https://github-readme-stats.vercel.app/api?username=Huang-0421&show_icons=true&line_height=27&count_private=true&theme=responsive"/>
 </a>
