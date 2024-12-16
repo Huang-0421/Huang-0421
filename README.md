@@ -4,10 +4,12 @@
   
 ![Header](./img.jpg "Header")
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+# Hello, folks! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
-### <div align="left">I'm Huang Ruijie, a student developer 👨‍💻.</div>  
-  
+### I'm Huang Ruijie, a student developer 👨‍💻
+
+
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" />  About Me: 
 
 - 🔭 I’m currently studying in Chongqing University  
   
