@@ -15,6 +15,9 @@
   
 
 - 🗨️ Fun fact: the best GPT user.
+
+
+- 💻 My Blog:&nbsp;&nbsp;[jerryblog.top](https://jerryblog.top)
   
 
 ## My Skill Set  
