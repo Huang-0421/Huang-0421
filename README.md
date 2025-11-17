@@ -2,6 +2,7 @@
 
 ### I'm Huang Ruijie, a student developer 👨‍💻
 
+<img align="right" alt="PC GIF" src="https://github.com/Huang-0421/Huang-0421/tree/master/assets/PC.gif" width="190" />
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" />  About Me: 
 
