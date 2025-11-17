@@ -2,17 +2,17 @@
 
 ### I'm Huang Ruijie, a student developer 👨‍💻
 
-<img align="right" alt="PC GIF" src="https://github.com/Huang-0421/Huang-0421/tree/master/assets/PC.gif" width="190" />
+<img align="right" alt="PC GIF" src="https://raw.githubusercontent.com/Huang-0421/Huang-0421/master/assets/PC.gif" width="250" />
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" />  About Me: 
 
-- 🔭 I’m currently studying in Chongqing University  
+- 🔭 I’m currently studying in Chongqing University
   
 
-- 🌱 I’m currently majoring in computer science and technology.  
+- 🌱 I’m currently majoring in computer science and technology.
   
 
-- ❓ Ask me about anything related to technology and schools.  
+- ❓ Ask me about anything related to technology and schools.
   
 
 - 🗨️ Fun fact: the best GPT user.
@@ -48,7 +48,7 @@
 </div>
 
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 <a href="https://github.com/Huang-0421">
@@ -69,7 +69,7 @@
 </div>
 
 
-### 📫 Contact Me
+### Contact Me
 
 <div align="left">
 <a href="https://github.com/Huang-0421" target="_blank">
